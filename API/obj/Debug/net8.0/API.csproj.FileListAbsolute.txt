@@ -31,3 +31,4 @@ C:\Users\selas\Documents\Repositories\AdvancedSWE2024\Connect 4 Dotnet\API\obj\D
 C:\Users\selas\Documents\Repositories\AdvancedSWE2024\Connect 4 Dotnet\API\obj\Debug\net8.0\API.pdb
 C:\Users\selas\Documents\Repositories\AdvancedSWE2024\Connect 4 Dotnet\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\selas\Documents\Repositories\AdvancedSWE2024\Connect 4 Dotnet\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\selas\Documents\Repositories\AdvancedSWE2024\Connect 4 Dotnet\API\obj\Debug\net8.0\API.sourcelink.json

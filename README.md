@@ -9,4 +9,4 @@
     - #### `cd ./Connect-4-Dotnet/API`
     - #### `dotnet run`
 - ### A browser window will open with the following endpoints to display.
-### ![alt text](image.png)
+### ![alt text](image-1.png)
