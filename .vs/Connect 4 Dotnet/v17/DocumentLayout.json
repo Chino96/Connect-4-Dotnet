@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\selas\\Documents\\Repositories\\AdvancedSWE2024\\Connect 4 Dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE70ED42-A386-4404-A2BD-A4ABE68F4535}|Api.Tests\\Api.Tests.csproj|c:\\users\\selas\\documents\\repositories\\advancedswe2024\\connect 4 dotnet\\api.tests\\services\\gameservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE70ED42-A386-4404-A2BD-A4ABE68F4535}|Api.Tests\\Api.Tests.csproj|solutionrelative:api.tests\\services\\gameservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\selas\\Documents\\Repositories\\AdvancedSWE2024\\Connect 4 Dotnet\\Api.Tests\\Services\\GameServiceTest.cs",
+              "RelativeDocumentMoniker": "Api.Tests\\Services\\GameServiceTest.cs",
+              "ToolTip": "C:\\Users\\selas\\Documents\\Repositories\\AdvancedSWE2024\\Connect 4 Dotnet\\Api.Tests\\Services\\GameServiceTest.cs",
+              "RelativeToolTip": "Api.Tests\\Services\\GameServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:41:40.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
